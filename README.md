@@ -23,7 +23,7 @@ This project analyzes and visualizes COVID-19 cases, tests, and deaths by ZIP co
 ## Usage
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/COVID-19-Data-Visualization.git
+    git clone https://github.com/JaleelADA/CHI-COVID
     cd COVID-19-Data-Visualization
     ```
 2. Install the required packages:
